@@ -1,0 +1,1 @@
+function myFunction(){var n=document.getElementById("myDIV");"none"===n.style.display?n.style.display="block":n.style.display="none"}
